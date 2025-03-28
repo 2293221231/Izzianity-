@@ -1,0 +1,19 @@
+{
+  "awards": [
+    {
+      "state": "GIVEN",
+      "badge": {
+        "id": {
+          "servePath": "/profile/badges/profile/created-profile"
+        },
+        "title": "Joined the Google Developer Program",
+        "description": "Joined the Google Developer Program",
+        "imageUrl": "/static/profile/badges/profile/created-profile/created_profile.svg",
+        "imagePath": "developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg"
+      },
+      "visibility": "PUBLIC",
+      "createTime": "2025-03-26T19:12:14.630678Z",
+      "awardingUrl": "developer.android.com/courses/pathways/make-your-android-app-accessible"
+    }
+  ]
+}
